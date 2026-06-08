@@ -95,7 +95,7 @@ export default function Home() {
 
             {/* REGISTER */}
             <a
-              href="https://checkmyninbvn.com.ng/auth/login"
+              href="https://checkmyninbvn.com.ng/auth/register"
               target="_blank"
               rel="noopener noreferrer"
             >
